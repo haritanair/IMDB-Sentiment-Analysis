@@ -6,6 +6,7 @@ This project aims to classify sentiments (positive or negative) from IMDB movie 
 
 ## Dataset
 
+The dataset used in this project can be found on Kaggle: [IMDB Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Dataset**: IMDB movie reviews, containing 50,000 reviews labeled as positive or negative.
 - **Target Variable**: Sentiment (positive/negative).
 
